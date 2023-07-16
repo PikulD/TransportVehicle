@@ -62,9 +62,5 @@ public class TransportVehicleController {
         model.addAttribute("transport", transport);
         return "edit";
     }
-    /*@PostMapping("/add")
-    public String editTransport (TransportVehicle transportVehicle){
-        transportVehicleService.saveTransportVehicle(transportVehicle);
-        return "redirect:/";
-    }*/
+
 }
