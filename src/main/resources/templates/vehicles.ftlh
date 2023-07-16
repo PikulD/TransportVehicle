@@ -48,6 +48,6 @@
     <input type="submit" value="Поиск автомобиль">
 </form>
 <br>
-<button onclick="location.href='/'">Закрыть поиск</button>
+<button onclick="location.href='/'">Убрать результат поиска</button>
 </body>
 </html>
